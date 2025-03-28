@@ -8,7 +8,7 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
 ## **Index of Topics Covered**
 1. **Cyber Crime** – Definition, types, and examples.  
 2. **Cyber Security** – Definition, common attacks, and importance.  
-3. **Cyber Security Principles (CIAAA Model)** – Confidentiality, Integrity, Availability, Accountability, Auditability.  
+3. **Cyber Security Principles (CIA + IAAA Model)** – Confidentiality, Integrity, Availability, Identification, Authentication, Authorization and Accountability.  
 4. **Cyber Threats** – Types, sources, and common examples.  
 5. **Cyber Threat Index Levels** – Risk levels and their impact.  
 6. **Vulnerabilities** – Definition, causes, and types.  
@@ -62,15 +62,17 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
 
 ---
 
-## **🔷 3. Cyber Security Principles (CIAAA Model)**
+## **🔷 3. Cyber Security Principles (CIA + IAAA Model)**  
 
-📌 **Core Cyber Security Principles**:
+📌 **Core Cyber Security Principles**:  
 
-1. **Confidentiality** – Prevents unauthorized access.
-2. **Integrity** – Ensures data accuracy.
-3. **Availability** – Ensures data is accessible when needed.
-4. **Accountability** – Users are responsible for their actions.
-5. **Auditability** – Enables security assessments.
+1. **Confidentiality** – Prevents unauthorized access to sensitive data.  
+2. **Integrity** – Ensures data accuracy and prevents unauthorized modifications.  
+3. **Availability** – Guarantees that data and services remain accessible when needed.  
+4. **Identification** – Recognizes users before granting access.  
+5. **Authentication** – Verifies user identities using credentials or biometrics.  
+6. **Authorization** – Determines access levels based on user roles and permissions.  
+7. **Accountability** – Tracks and logs user activities for auditing and monitoring.  
 
 ---
 
