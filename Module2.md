@@ -177,8 +177,6 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
   Plaintext → Encryption (AES-256) → Ciphertext
   ```
 
----
-
 ### **2. Asymmetric Encryption (Public-Key Cryptography)**  
 📌 **Definition**:  
 - Uses **two keys**: a **public key** (for encryption) and a **private key** (for decryption).  
@@ -197,8 +195,6 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
   ```
   Sender encrypts message with Receiver’s Public Key → Only Receiver can decrypt using their Private Key.
   ```
-
----
 
 ### **3. Hashing (One-Way Cryptography)**  
 📌 **Definition**:  
@@ -219,8 +215,6 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
   Input: "mypassword" → SHA-256 Hash → e38ad214943daad1d64c102faec29de4afe9da3d
   ```
 
----
-
 ### **4. Steganography (Hidden Data Technique)**  
 📌 **Definition**:  
 - Hides secret data **within an image, audio, or video file**.  
@@ -236,8 +230,6 @@ In the digital age, cybersecurity is an essential pillar in safeguarding sensiti
 
 📌 **Example Usage**:  
 - Used in **electronic documents**, **software authenticity**, and **blockchain**.  
-
----
 
 ## **📌 Summary of Cryptography Applications:**  
 ✔ **Symmetric Encryption** – Used in fast data encryption (AES-256 in VPNs).  
